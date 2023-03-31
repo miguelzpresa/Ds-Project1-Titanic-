@@ -1,15 +1,15 @@
 # Ds-Project1-Titanic
 
-proyecto_titanic/
-├── data/
-│   ├── titanic_train.csv
-│   └── titanic_test.csv
-├── exploratory_analysis/
-│   ├── general_stats.ipynb
-│   ├── gender_analysis.ipynb
-│   ├── class_analysis.ipynb
-│   └── age_analysis.ipynb
-├── feature_engineering/
+proyecto_titanic/  
+├── data/  
+│   ├── titanic_train.csv  
+│   └── titanic_test.csv  
+├── exploratory_analysis/  
+│   ├── general_stats.ipynb  
+│   ├── gender_analysis.ipynb  
+│   ├── class_analysis.ipynb  
+│   └── age_analysis.ipynb  
+├── feature_engineering/  
 │   ├── feature_engineering.ipynb
 │   └── feature_selection.ipynb
 ├── modeling/
